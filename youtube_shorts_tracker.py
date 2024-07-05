@@ -45,4 +45,4 @@ def check_chrome_open():
 
 
 if __name__ == "__main__":
-    check_youtube_shorts ()
+    check_chrome_open()
