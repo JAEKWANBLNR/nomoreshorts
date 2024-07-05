@@ -1,2 +1,3 @@
 # nomoreshorts
+The people who fell in the youtube shorts.... use this program (For Linux, Ubuntu) 
 I don't want to see the shorts more than 3 min... 
